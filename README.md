@@ -1,7 +1,7 @@
 Hi there, I'm Taogen 👋 
 
-[![taogen's github stats](https://github-readme-stats.vercel.app/api?username=tagnja&show_icons=true&theme=dracula)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tagnja&layout=compact&theme=dracula)](#)
+![taogen's github stats](https://github-readme-stats.vercel.app/api?username=tagnja&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tagnja&layout=compact&theme=dracula)
 
 <!--
 **tagnja/tagnja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
