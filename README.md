@@ -1,7 +1,10 @@
 ### Hi there, I'm Taogen 👋 
 
-![taogen's github stats](https://github-readme-stats.vercel.app/api?username=tagnja&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tagnja&layout=compact&theme=dracula)
+- 🔭 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning Java
+- 💬 Ask me about anything related to Java/JVM/Spring/SpringBoot/MyBatis/MySQL
+- 📫 How to reach me: taogenjia@gmail.com
+- ⚡ Fun fact: I love reading literature books
 
 📕 **Latest Blog Posts**
 
@@ -12,6 +15,11 @@
 - [如何阅读源码](https://taogenjia.com/2020/07/02/how-to-read-source-code/)
 - [Spring源码分析：IoC](https://taogenjia.com/2020/07/02/spring-dive-into-source-code-ioc/)
 <!-- BLOG-POST-LIST:END -->
+
+
+![taogen's github stats](https://github-readme-stats.vercel.app/api?username=tagnja&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tagnja&layout=compact&theme=dracula)
+
 
 <!--
 **tagnja/tagnja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
