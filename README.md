@@ -13,7 +13,6 @@
 - [微信公众号开发教程](https://taogenjia.com/2020/07/27/wechat-official-accounts-tutorial/)
 - [Understanding Java：NIO](https://taogenjia.com/2020/07/13/Java-understanding-nio/)
 - [如何阅读源码](https://taogenjia.com/2020/07/02/how-to-read-source-code/)
-- [Spring源码分析：IoC](https://taogenjia.com/2020/07/02/spring-dive-into-source-code-ioc/)
 <!-- BLOG-POST-LIST:END -->
 
 
