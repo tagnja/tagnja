@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java
 - 💬 Ask me about anything related to Java/JVM/Spring/SpringBoot/MyBatis/MySQL
 - 📫 How to reach me: taogenjia@gmail.com
-- ⚡ Fun fact: I love reading literature books
+- ⚡ Fun fact: I love reading literary books
 
 📕 **Latest Blog Posts**
 
