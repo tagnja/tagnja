@@ -6,20 +6,11 @@
 - 📫 How to reach me: taogenjia@gmail.com
 - ⚡ Fun fact: I love reading literary books
 
-📕 **Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-- [微信公众号之微信支付开发教程](https://taogenjia.com/2020/08/07/wechat-pay-tutorial/)
-- [微信公众号开发教程](https://taogenjia.com/2020/07/27/wechat-official-accounts-tutorial/)
-- [Understanding Java：NIO](https://taogenjia.com/2020/07/13/Java-understanding-nio/)
-- [如何阅读源码](https://taogenjia.com/2020/07/02/how-to-read-source-code/)
-<!-- BLOG-POST-LIST:END -->
-
 
 ![taogen's github stats](https://github-readme-stats.vercel.app/api?username=tagnja&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true)
 
-
 <!--
+
 **tagnja/tagnja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -32,4 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
