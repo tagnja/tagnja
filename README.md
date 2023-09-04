@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Java
 - 💬 Ask me about anything related to Java/JVM/Spring/SpringBoot/MyBatis/MySQL
-- 📫 How to reach me: taogenjia@gmail.com
+- 📫 How to reach me: taogenja@gmail.com
 - ⚡ Fun fact: I love reading books
 
 
